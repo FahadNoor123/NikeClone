@@ -1,0 +1,69 @@
+
+
+
+
+
+.midbox1{
+    width:100%;
+    background-color: rgba(227, 147, 54);
+    height: 20px;
+    display: flex;
+  
+    align-items: center;
+    gap: 4px;
+    list-style: none;
+    font-size: small;
+    color: white;
+    font-weight: bold;
+    border-bottom: 2px solid white;
+   margin-bottom: 0px;
+}
+.nikeshoes1{
+    height: 8px;
+}
+.midbox2{
+    width:100%;
+    background-color: rgba(227, 147, 54);
+    height: 200px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 2px;
+    list-style: none;
+    position: absolute;
+
+}
+
+
+.nikeshoes1{
+    height: 170px;
+    width: 140px;
+ 
+}
+
+
+
+.midboxtext{
+    list-style: none;
+    position: relative;
+}
+.textheading{
+    color: white;
+    font-weight: bold;
+}
+.text{
+    color: white;
+    
+}
+.shopbtn{
+    margin-top: 20px;
+    border-radius: 30px;
+    width: 75px;
+    border: none;
+    font-weight: 500;
+    height: 35px;
+}
+
+.shopbtn:hover{
+    background-color: rgb(160, 160, 160);
+}

@@ -1,0 +1,28 @@
+.Bigimage{
+    margin-top: 100px;
+    width: 100%;
+}
+
+.Bigimagetext{
+    list-style: none;
+    text-align: center;
+   
+}
+
+.texthead{
+    font-weight: bolder;
+    font-weight: 1000;
+}
+.bigimgebtn{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    width: 75px;
+}
+
+.bigimgebtn:hover {
+    background-color: #555555;
+  
+    /* You can change other styles, like font size, padding, or border, for the hover effect. */
+  }

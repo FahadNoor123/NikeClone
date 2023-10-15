@@ -1,0 +1,52 @@
+.featuredsss{
+    display: flex;
+   justify-content: center;
+    gap: 8px;
+    list-style: none;
+    border: none;
+   
+    
+}
+.featuredee{
+   
+  
+    list-style: none;
+    border: none;
+    position: relative;
+    bottom: 150px;
+}
+.featuredeetext{
+    font-weight: bold;
+}
+
+.bigimgebtn{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    width: 75px;
+    border: none;
+}
+.bigimgebtn:hover {
+    background-color: #555555;
+  
+    /* You can change other styles, like font size, padding, or border, for the hover effect. */
+  }
+  .featuredimage2{
+    color: white;
+    font-weight: bold;
+  }
+
+
+.bigimgebtn2{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    width: 75px;
+    border: none;
+}
+.bigimgebtn2:hover {
+    background-color: #555555;
+  
+    /* You can change other styles, like font size, padding, or border, for the hover effect. */
+  }

@@ -1,0 +1,21 @@
+.trendingtexts{
+  
+ 
+   
+  
+    font-weight: bold;
+
+    
+}
+
+.trendings{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    list-style: none;
+    border: none;
+    
+}
+#carde {
+    border: none;
+  }

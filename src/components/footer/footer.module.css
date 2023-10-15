@@ -1,0 +1,65 @@
+/* Basic footer styles */
+.footer {
+    background-color: #000;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.footerLinks ul, .footerIcons ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footerLinks ul li, .footerIcons ul li {
+    margin: 5px 0;
+}
+
+.footerLinks a, .footerIcons a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footerLinks a:hover, .footerIcons a:hover {
+    color: #f5a623;
+}
+
+/* Bottom footer */
+.bottomFooter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 20px;
+}
+
+.bottomFooter ul {
+    list-style: none;
+    display: flex;
+}
+
+.bottomFooter ul li {
+    margin: 0 10px;
+}
+
+/* FontAwesome icons */
+.fabfatwitter, .fabfafacebook, .fabfayoutube, .fabfainstagram {
+    font-size: 24px;
+    margin-right: 10px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+
+}
+.flexy{
+    display: flex;
+}

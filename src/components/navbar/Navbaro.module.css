@@ -1,0 +1,17 @@
+.parent {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+
+    background-color: rgb(245, 245, 245);
+   
+    
+    list-style-type: none;
+    padding: 0px 30px 0px 0px;
+  }
+.child {
+    padding: 3px; /* Apply 10px of padding to each <li> element */
+    font-size: 10px;
+ 
+   
+  }
